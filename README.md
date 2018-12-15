@@ -26,4 +26,9 @@ Requirements
 Jupyter Notebook (Anaconda Distribution Prefered)
 Install python dependencies
 requirements.sh
+
 Authors
+Vikas Kumar
+
+Licence
+This project is licensed under the MIT License - see the LICENSE.md file for details
