@@ -5,3 +5,19 @@ Transfer learning is a machine learning method where a model developed for a tas
 
 RESEARCH OBJECTIVE
 The objective of our project is to use the methodology of Transfer Learning to classify custom images and improve the accuracy by varying the convolutional network of a particular model
+
+
+Model Construction
+INCEPTION_V3
+XCEPTION
+VGG_16
+
+
+Build With
+JupterNotebook
+Keras
+Requirements
+Jupyter Notebook (Anaconda Distribution Prefered)
+Install python dependencies
+requirements.sh
+Authors
